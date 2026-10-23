@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Pakistan",
+    "code": "PK",
+    "countryCode": "+92",
+    "phoneFormat": "300 1234567",
+    "phoneLength": 10,
+    "flag": "https://flagcdn.com/w80/pk.png"
+  }
+]
